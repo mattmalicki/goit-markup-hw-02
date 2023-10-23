@@ -22,26 +22,26 @@ body {
   line-height: 1.19;
 }
 
-.head {
+.page-header {
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
 }
 
-.head .logo,
-.head .logo:hover,
-.head .logo:focus {
+.page-header .logo,
+.page-header .logo:hover,
+.page-header .logo:focus {
   color: var(--black-color);
 }
-.foot-adress {
+.page-footer {
   background: var(--third-backgroud-color);
   color: var(--white-color);
   font-size: 14px;
   line-height: 1.5;
 }
-.foot-adress .logo,
-.foot-adress .logo:hover,
-.foot-adress .logo:focus {
+.page-footer .logo,
+.page-footer .logo:hover,
+.page-footer .logo:focus {
   color: var(--white-color);
 }
 
@@ -49,13 +49,13 @@ body {
   color: var(--functional-color);
 }
 
-.head .header-mail,
-.head .header-phone {
+.page-header .header-mail,
+.page-header .header-phone {
   color: var(--second-color);
 }
 
-.foot-adress .footer-mail,
-.foot-adress .footer-phone {
+.page-footer .footer-mail,
+.page-footer .footer-phone {
   color: var(--footer-mail-phone-color);
 }
 
